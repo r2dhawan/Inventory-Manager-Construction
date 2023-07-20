@@ -1,0 +1,21 @@
+/* components/Inventory.css */
+
+.inventory-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.inventory-table th,
+.inventory-table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.inventory-table th {
+  background-color: #f2f2f2;
+}
+
+.inventory-table tbody tr:hover {
+  background-color: #f2f2f2;
+}
